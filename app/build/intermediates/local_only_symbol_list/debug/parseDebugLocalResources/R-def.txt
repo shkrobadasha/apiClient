@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color bg
+color black
+color white
+drawable clear
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id confidenceText
+id loginButton
+id passwordInput
+id resultText
+id sendButton
+id textInput
+id usernameInput
+layout activity_login
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string clear_button_description
+string default_text
+style Base.Theme.MyApplication
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
+xml network_security_config

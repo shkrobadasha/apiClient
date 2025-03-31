@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="default_text" translatable="false">Enter the text...</string>
+    <string name="clear_button_description">Clear the input field</string>
+</resources>
